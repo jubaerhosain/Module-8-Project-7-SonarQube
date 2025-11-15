@@ -36,4 +36,4 @@ jobs:
         with:
           args: >
             -Dsonar.organization=jubaerhosain
-            -Dsonar.projectKey=Module-8-Project-7-SonarQube
+            -Dsonar.projectKey=jubaerhosain_Module-8-Project-7-SonarQube
