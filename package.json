@@ -1,0 +1,25 @@
+{
+  "name": "module-8-project-7-sonarqube",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:coverage": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jubaerhosain1119-ostad/Module-8-Project-7-SonarQube.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/jubaerhosain1119-ostad/Module-8-Project-7-SonarQube/issues"
+  },
+  "homepage": "https://github.com/jubaerhosain1119-ostad/Module-8-Project-7-SonarQube#readme",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
